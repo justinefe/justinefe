@@ -14,7 +14,7 @@ I'm a passionate **Fullstack Software Engineer** focused on building scalable an
 - [**Quik Nation**](https://quiknation.com) – Multi-tenant SaaS products and digital solutions.
 
 ### 📫 Let’s Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/justinefe)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/justin-igugu-4bb465171/)  
 - 📩 efejustin3@gmail.com  
 - 🔗 [Portfolio / Work](https://quiknation.com)
 
